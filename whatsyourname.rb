@@ -1,3 +1,3 @@
-name = "Nathan Batson"
+name = "Skunkhaus"
 
 puts "My name is: #{name}"
